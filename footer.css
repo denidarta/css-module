@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    color: #fff;
+    background-color: #0d0d0d;
+}
+
+footer {
+    background-color: #0d0d0d;
+}
+
+ul {
+    padding-inline-start: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+#copyright-text {
+    color: gray;
+    text-align: center;
+    background-color: yellow;
+}
+
+#social-links {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+#social-links svg {
+    color: red;
+}
